@@ -2,6 +2,7 @@
 
 1. [Información General](#información-general)
 2. [Pagos](#pagos)
+3. [Discussions](#chat)
 
 ### Información General
 
@@ -27,6 +28,35 @@
 - 👻 Host a buen precio
 - 💵 Via: Paypal / Bitcoin
 
+  <div> </div>
+  
+  # Chat
+  
+  <p> Aqui teneis el link de discusiones, reportes, bugs, dudas y hablar </p>
+  
+[Discussions](https://github.com/Pandaxyz-xd/fernodes-host/discussions)
+  
 <div> </div>
+<div> </div>
+  <div> </div>
+  <div> </div>
+  
 
-![Host](https://i.imgur.com/dLXyfub.png)
+
+  
+  
+ - -
+ - -
+ - -
+   - -
+ - -
+ - -
+   - -
+ - -
+ - -
+   - -
+ - -
+ - -
+  
+  
+  ![Host](https://i.imgur.com/dLXyfub.png)
