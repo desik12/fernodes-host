@@ -1,2 +1,32 @@
-# fernodes-host
- → Colaboración con Fernodes.xyz | Host's a muy buen precio
+## Fernandoes | El Mejor Gaming Hosting
+
+1. [Información General](#información-general)
+2. [Pagos](#pagos)
+
+### Información General
+
+<h3 align="center"> ⚡ Modelos de Host <h3>
+
+- Páginas Web
+- Discord Bots
+- Minecraft Servers
+- FiveM Servers
+- Rust Servers
+
+
+
+## Redes Sociales
+
+
+* [instagram.com/fernodes.xyz](https://instagram.com/fernodes.xyz/): Instagram
+* [discord.gg/rZBPGZWwGD](https://discord.gg/rZBPGZWwGD): Discord
+
+
+## Pagos
+
+- 👻 Host a buen precio
+- 💵 Via: Paypal / Bitcoin
+
+<div> </div>
+
+![Host](https://i.imgur.com/dLXyfub.png)
